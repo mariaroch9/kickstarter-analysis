@@ -25,25 +25,23 @@ Louise’s team provided us with very high-quality data that didn’t need any c
 Suppose this wasn’t the case and there were typos it could have warranted additional steps. 
 Before conducting any analysis, the most crucial step is to assess the data set. If there are any discrepancies, the first step would be to clean the data. For example, if there were blank spaces in the goals column, then we would need to run additional commands to ensure that there is a numerical value such as “0” in place of the blank.
 
-###Results
-* Interpreting the Theatre Outcomes by Launch Date Chart 
+**###Results**
+*** Interpreting the Theatre Outcomes by Launch Date Chart** 
     ** Looking at the theatre outcomes chart, we could conclude that the Month of May had 111 successful plays, the highest of all plays. This is closely           followed by June which had 100 successful plays
     ** Surprisingly the months of May, June and July witnessed approximately 50 failed plays as well
     ** January had 7 cancelled plays. Which is the highest number of cancelled plays compared to the rest of the year
 
-* Interpreting the Outcomes based on Goals Chart
+*** Interpreting the Outcomes based on Goals Chart**
     ** Expectedly, when the fundraising goal was below 1000, 76% of the projects were successful. Similarly, when the goal was below 5000, 73% of the              projects were successful
     ** Shockingly, all the plays with a goal between 45000 to 49999, were bombed. They witnessed a 100% failure
     ** Thankfully, the final category of 50000 or More attained a tinge of success at 13%, However, 87% of campaigns with that pricey goal failed
 
-* Limitations of the Dataset
+*** Limitations of the Dataset**
     ** Finding meaningful correlations considering the vast data
     ** Lack of reliable data such as self-reported data, missing data
     ** Deficiencies in the measurement of data since the questionnaire did not ask specific questions to address a specific issue 
 
-* Some of the Other charts/graphs that could be prepared
+*** Some of the Other charts/graphs that could be prepared**
     ** An Outcomes based on the amount pledged could be prepared apart from the goals chart
     ** Another chart based on the countries where the plays were conducted could be prepared
     ** A chart indicating the number of backers for each project based on the outcomes could also be created
-
-![image](https://user-images.githubusercontent.com/111670866/187299013-25e30be7-55f7-42a7-b9e1-e2f1ba39b53e.png)
